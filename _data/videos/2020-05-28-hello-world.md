@@ -2,7 +2,7 @@
 template: WebinarPage
 path: /ciosynergy-aaaa
 date: 2020-05-14T14:00:03.620Z
-title: hello world
+title: hello world 2
 keywords:
   - test1
   - test
